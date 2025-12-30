@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv/
+
+# Pytest
+.pytest_cache/
+
+# Build artifacts
+dist/
+deploy_test/
+
+# OS
+.DS_Store
+Thumbs.db
